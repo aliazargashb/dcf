@@ -3,6 +3,7 @@ from genie.testbed import load
 
 #aetest for the creation of automated tests
 from pyats import aetest
+import numpy as np
 
 #interact with command-line arguments
 import sys
